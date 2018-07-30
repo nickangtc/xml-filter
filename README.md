@@ -9,8 +9,8 @@ For example, if this is the input file:
 ```xml
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
-<title>JollyChic</title>
-<link rel="self" href="http://www.jollychic.com"/>
+<title>Example</title>
+<link rel="self" href="http://www.example.com"/>
 
 <entry>
 <g:id>3557856</g:id>
